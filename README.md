@@ -1,2 +1,2 @@
 # Promoter-analysis-scripts
-Python scripts written as part of my MRes project to help uncover new features in Y. lipolytica promoters.
+Python scripts written as part of my MRes project in Systems and Synthetic Biology at Imperial College London.
